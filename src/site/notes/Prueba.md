@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prueba/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Prueba/","tags":["gardenEntry"]}
 ---
 
 > [!note]
